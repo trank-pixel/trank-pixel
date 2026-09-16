@@ -3,4 +3,4 @@
 # [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=trank-pixel&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=trank-pixel&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=vue-dark)
 
 
-# ![My GitHub Terminal Stats](assets/github_stats.svg)
+# [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=trank-pixel&theme=ubuntu&headerStyle=mac&typingSpeed=65&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/trank-pixel)
