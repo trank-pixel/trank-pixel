@@ -26,9 +26,9 @@ jobs:
         uses: yogeshwaran01/github-stats-terminal-style@master
         with:
           username: ${{ github.repository_owner }}
-          theme: tokyonight
+          theme: ubuntu
           headerStyle: mac
-          commands: whoami,neofetch,languages,uptime,exit
+          commands: whoami,neofetch,languages,uptime,ps,exit
           outputPath: assets/github_stats.svg
 
       # Step 3: Commit and Push the updated SVG card back to repository
