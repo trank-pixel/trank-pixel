@@ -26,7 +26,7 @@ jobs:
         uses: yogeshwaran01/github-stats-terminal-style@master
         with:
           username: ${{ github.repository_owner }}
-          theme: ubuntu
+          theme: tokyonight
           headerStyle: mac
           commands: whoami,neofetch,languages,uptime,ps,exit
           outputPath: assets/github_stats.svg
